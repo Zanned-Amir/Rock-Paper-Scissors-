@@ -65,21 +65,21 @@ body {
 }
 
 #result {
-  background-color: #153A43;
+  background-color:rgba(218, 204, 15, 0.582);
   width: 400px;
   height: 300px;
   border-radius: 10px;
 }
 
 #player {
-  background-color: #153A43;
+  background-color: rgba(218, 204, 15, 0.582);
   width: 300px;
   height: 200px;
   border-radius: 10px;
 }
 
 #computer {
-  background-color: #153A43;
+  background-color: rgba(218, 204, 15, 0.582);
   width: 300px;
   height: 200px;
   border-radius: 10px;
@@ -91,7 +91,7 @@ body {
 }
 
 .box {
-  background-color: #153A43;
+  background-color: rgba(218, 204, 15, 0.582);
   width: 200px;
   height: 150px;
   border-radius: 10px;
