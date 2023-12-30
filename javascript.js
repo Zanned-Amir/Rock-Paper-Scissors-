@@ -1,5 +1,5 @@
 const choice = ["rock", "paper", "scissors"];
-const emoji =["&#129704;","🧻","✂️"];
+const emoji =["🪨","🧻","✂️"];
 let roundsPlayed = 0;
 let playerWins = 0;
 let computerWins = 0;
